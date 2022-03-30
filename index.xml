@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tue Nguyen</title>
+    <link>/</link>
+    <description>Recent content on Tue Nguyen</description>
+    <image>
+      <url>papermod-cover.png</url>
+      <link>papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>archives</description>
+    </item>
+    
+    
+    <item>
+      <title>Curriculum vitae</title>
+      <link>/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cv/</guid>
+      <description>Personal details Full name: Nguyen Trong Tue
+Mobile: (+39) 3484-529-458
+Email: tuenguyends@gmail.com
+Website: https://tuenguyends.github.io
+Github: https://github.com/tuenguyends
+Education MSc in Quantitative Economics (2021 - 2023)
+at Università Ca&amp;rsquo; Foscari, Italy and Universitat Autònoma de Barcelona, Spain Fully funded by the Erasmus Mundus scholarship
+BSc in Finance-Banking (2012 - 2016)
+at Tan Tao University, Vietnam
+Fully funded by TTU-ITA scholarship
+Awards Erasmus Mundus Scholarship (2021)
+by the European Commission - €49,000
+Mitacs Globalink Research Internship Award (2015)</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>To be updated.</description>
+    </item>
+    
+    
+  </channel>
+</rss>

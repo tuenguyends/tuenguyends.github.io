@@ -40,7 +40,7 @@ Open a Git Bash terminal and navigate inside `books/`
 cd D:/projects/git/books/
 ```
 
-Now create a new book for example `my_book`
+Now create a new book, for example, `my_book`
 
 ```bash
 jb create my_book

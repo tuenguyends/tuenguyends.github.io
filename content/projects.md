@@ -2,4 +2,4 @@
 title: "Projects"
 ---
 
-To be updated.
+- [Python tutorials](https://tuenguyends.github.io/python-tutorials)

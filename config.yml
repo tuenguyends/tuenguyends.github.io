@@ -57,6 +57,10 @@ languages:
                   url: projects/
                   weight: 4
 
+                - name: Posts
+                  url: posts/
+                  weight: 5
+
                 # - name: Archive
                 #   url: archives/
                 #   weight: 5

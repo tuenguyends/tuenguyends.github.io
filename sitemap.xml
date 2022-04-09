@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tuenguyends.github.io/posts/build-a-jupyter-book/</loc>
+    <loc>https://tuenguyends.github.io/posts/misc/build-a-jupyter-book/</loc>
     <lastmod>2022-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tuenguyends.github.io/tags/jupyter-book/</loc>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tuenguyends.github.io/posts/misc/</loc>
     <lastmod>2022-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tuenguyends.github.io/posts/</loc>
@@ -22,6 +25,8 @@
     <loc>https://tuenguyends.github.io/archives/</loc>
   </url><url>
     <loc>https://tuenguyends.github.io/categories/</loc>
+  </url><url>
+    <loc>https://tuenguyends.github.io/cert/</loc>
   </url><url>
     <loc>https://tuenguyends.github.io/cv/</loc>
   </url><url>

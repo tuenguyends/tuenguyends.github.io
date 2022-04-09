@@ -13,10 +13,10 @@
     <lastBuildDate>Wed, 30 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://tuenguyends.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Build a Jupyter Book</title>
-      <link>https://tuenguyends.github.io/posts/build-a-jupyter-book/</link>
+      <link>https://tuenguyends.github.io/posts/misc/build-a-jupyter-book/</link>
       <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://tuenguyends.github.io/posts/build-a-jupyter-book/</guid>
+      <guid>https://tuenguyends.github.io/posts/misc/build-a-jupyter-book/</guid>
       <description>Installation First, I assume you already have Python &amp;gt;= 3.8 and Git installed.
 Now install jupyter-book package as follows
 pip install -U jupyter-book Double-check if the installation was done correctly
@@ -32,6 +32,15 @@ jupyter-book --help Process of building a book  Create your content: folders, fi
       <description>archives</description>
     </item>
     
+    
+    <item>
+      <title>Certificates</title>
+      <link>https://tuenguyends.github.io/cert/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tuenguyends.github.io/cert/</guid>
+      <description>Data science  Datacamp&amp;rsquo;s Data Scientist with Python Career Track IBM Data Science Professional Certificate Data Science: Foundations using R Specialization SQL for Data Science Data Wrangling, Analysis and AB Testing with SQL Distributed Computing with Spark SQL Computational Social Science Methods Big Data, Artificial Intelligence, and Ethics  Math &amp;amp; Statistics  Regression Models Statistical Inference  </description>
+    </item>
     
     <item>
       <title>Curriculum vitae</title>

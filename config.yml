@@ -57,8 +57,8 @@ languages:
                   url: projects/
                   weight: 4
 
-                - name: Posts
-                  url: posts/
+                - name: Certificates
+                  url: cert/
                   weight: 5
 
                 # - name: Archive

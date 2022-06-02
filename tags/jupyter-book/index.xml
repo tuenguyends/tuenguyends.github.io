@@ -20,7 +20,7 @@
       <description>Installation First, I assume you already have Python &amp;gt;= 3.8 and Git installed.
 Now install jupyter-book package as follows
 pip install -U jupyter-book Double-check if the installation was done correctly
-jupyter-book --help Process of building a book  Create your content: folders, files, and configuration Build your book: convert your content to HTML or PDF Publish your book: bring it online  Create a book You might have multiple books. Thus, create a folder for all of your book projects first, for example</description>
+jupyter-book --help Process of building a book Create your content: folders, files, and configuration Build your book: convert your content to HTML or PDF Publish your book: bring it online Create a book You might have multiple books. Thus, create a folder for all of your book projects first, for example</description>
     </item>
     
   </channel>

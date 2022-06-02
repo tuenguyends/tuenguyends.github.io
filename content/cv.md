@@ -37,7 +37,7 @@ by *Tan Tao University - $3,000 per year*
 **IDEs:** Jupyter Lab, VS Code, PyCharm, Spyder, RStudio  
 **Databases:** Relational DBMS, SQL, PostgreSQL, MySQL  
 **Big data:** Distributed Computing, Apache Spark, Hadoop  
-**Data science**: Data wrangling, Visualization, Exploratory Analysis, Machine Learning, Network Analysis  
+**Data science**: Data Wrangling, Visualization, Exploratory Analysis, Machine Learning, Network Analysis  
 **Other**: Git, Command-line, Windows/Linux, Latex/Markdown, HTML/CSS, Technical Writing  
 
 ## Employment

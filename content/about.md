@@ -12,4 +12,5 @@ I am a MSc student in Quantitative Economics at Università Ca' Foscari (Italy) 
 
 I expect to graduate in August 2023, and I plan to join the industry and work as an economist/data scientist after graduation.
 
-For more details about me, please see my [CV](/cv).
+For more details about me, please see my [**CV**](/cv).  
+For the projects I have done or am working on, please see my [**projects**](/projects).

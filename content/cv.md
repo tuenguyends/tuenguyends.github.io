@@ -33,18 +33,18 @@ by *Tan Tao University - $3,000 per year*
 
 ## Skills
 
-**Programming:** Python, R, Matlab/Octave, Julia  
+**Programming:** Python, R, Matlab, Octave  
 **IDEs:** Jupyter Lab, VS Code, PyCharm, Spyder, RStudio  
 **Databases:** Relational DBMS, SQL, PostgreSQL, MySQL  
 **Big data:** Distributed Computing, Apache Spark, Hadoop  
-**Data science**: Data Wrangling, Visualization, Exploratory Analysis, Machine Learning, Network Analysis  
+**Data science**: Data Wrangling, Exploratory Analysis, Visualization, Machine Learning 
 **Other**: Git, Command-line, Windows/Linux, Latex/Markdown, HTML/CSS, Technical Writing  
 
 ## Employment
 **Junior Data Scientist** at *Trusting Social, Vietnam* (2020 - 2021)  
 **Research Engineer** at *Trusting Social, Vietnam* (2017 - 2019)  
 **Data Specialist** at *Sentifi AG, Vietnam* (2017)  
-**Part-time Data Science Instructor** at *Vicohub & Nordic Coder, Vietnam* (2019 - 2020)
+**Part-time Data Analytics Instructor** at *Vicohub & Nordic Coder, Vietnam* (2019 - 2021)
 
 
 ## Languages
@@ -73,9 +73,4 @@ by *Johns Hopkins University, Coursera (5 courses)*
 *Johns Hopkins University, Coursera (2 courses)*
 
 For the full list of certificates, please visit [here](https://tuenguyends.github.io/cert)
-
-## Experience abroad
-**Barcelona, Spain:** 6 months (study from 01/2022 to 06/2022)  
-**Venice, Italy:** 4 months (study from 09/2021 to 12/2021)  
-**Quebec, Canada:** 3 months (internship from 06/2015 to 08/2015)  
 
